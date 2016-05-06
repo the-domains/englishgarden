@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-06T08:41:13.210Z'
-dateModified: '2016-05-06T08:21:17.079Z'
+datePublished: '2016-05-06T08:48:52.548Z'
+dateModified: '2016-05-06T08:44:18.334Z'
 title: 'Hello world! '
 author:
   - name: by Master Wen
@@ -18,7 +18,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: hello-world/index.html
 _type: Article
 
