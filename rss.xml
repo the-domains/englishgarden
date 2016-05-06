@@ -4,7 +4,7 @@
         <description><![CDATA[an English school in Moriya City, Japan]]></description>
         <link>https://thegrid.ai/englishgarden/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 May 2016 08:48:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2016 08:49:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/englishgarden/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hello world! ]]></title>
@@ -14,18 +14,18 @@
             <pubDate>Fri, 06 May 2016 08:48:52 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Let's go fly a kite.]]></title>
+            <description><![CDATA[<article><h1>Let's go fly a kite.</h1><p>On March 27th and April 3rd, English Garden hosted a kite-flying event for all of our Kindergarten and elementary school students. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/00c482b82e6d1c572cc5d4566119c10f502e347c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/englishgarden/lets-go-fly-a-kite/index.html</link>
+            <guid isPermaLink="false">0490fbcf-6902-4a2e-97a9-ed9bbe01c2d0</guid>
+            <pubDate>Fri, 06 May 2016 08:49:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[New series! Read & write the ABCs with Jason.]]></title>
             <description><![CDATA[<article><h1>New series! Read & write the ABCs with Jason.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a401fa3013b8f521312f29e36a6f90d084f317e.png"></article>]]></description>
             <link>https://thegrid.ai/englishgarden/new-series-read-and-write-the-abcs-with-jason/index.html</link>
             <guid isPermaLink="false">d8a770c7-b217-49dd-ac9c-814f274f0e21</guid>
             <pubDate>Fri, 06 May 2016 08:40:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Let's go fly a kite.]]></title>
-            <description><![CDATA[<article><h1>Let's go fly a kite.</h1><p>On March 27th and April 3rd, English Garden hosted a kite-flying event for all of our Kindergarten and elementary school students. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/00c482b82e6d1c572cc5d4566119c10f502e347c.jpg"></article>]]></description>
-            <link>https://thegrid.ai/englishgarden/lets-go-fly-a-kite/index.html</link>
-            <guid isPermaLink="false">0490fbcf-6902-4a2e-97a9-ed9bbe01c2d0</guid>
-            <pubDate>Fri, 06 May 2016 08:19:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
