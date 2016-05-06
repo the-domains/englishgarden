@@ -5,12 +5,13 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-06T08:11:28.200Z'
-dateModified: '2016-05-06T07:59:19.720Z'
+datePublished: '2016-05-06T08:21:11.669Z'
+dateModified: '2016-05-06T08:20:57.581Z'
 title: 'Hello world! '
 author:
   - name: by Master Wen
     url: ''
+sourcePath: _posts/2016-05-06-hello-world.md
 authors: []
 publisher:
   name: null
@@ -18,7 +19,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-06-hello-world.md
 url: hello-world/index.html
 _type: Article
 
@@ -29,6 +29,6 @@ _type: Article
 
 イングリッシュ・ガーデンは、茨城県守谷市けやき台にある英会話教室。
 
-言語の習得はスポーツに近いです。大切な事は、たくさん練習して、たくさん間違えること。その繰り返しが上達のコツです。そのために、あなたがどこにいても英語環境を手に入れられる必要があると考えます。
+言語の習得はスポーツに近いです。 大切な事は、たくさん練習して、たくさん間違えること。その繰り返しが上達のコツです。そのために、あなたがどこにいても英語環境を手に入れられる必要があると考えます。
 
 Check back here regularly for updates that you can use to improve your English :)
