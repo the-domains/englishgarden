@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[English Garden]]></title>
         <description><![CDATA[English Garden]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/englishgarden/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 May 2016 08:11:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 06 May 2016 08:20:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/englishgarden/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Let's go fly a kite.]]></title>
+            <description><![CDATA[<article><h1>Let's go fly a kite.</h1><p>On March 27th and April 3rd, English Garden hosted a kite-flying event for all of our Kindergarten and elementary school students. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/00c482b82e6d1c572cc5d4566119c10f502e347c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/englishgarden/lets-go-fly-a-kite/index.html</link>
+            <guid isPermaLink="false">0490fbcf-6902-4a2e-97a9-ed9bbe01c2d0</guid>
+            <pubDate>Fri, 06 May 2016 08:19:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hello world! ]]></title>
             <description><![CDATA[<article><h1>Hello world! </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b2c70c97bb83306106e485196d86ef2d17aedb17.jpg"></article>]]></description>
-            <link>undefinedhello-world/index.html</link>
+            <link>https://thegrid.ai/englishgarden/hello-world/index.html</link>
             <guid isPermaLink="false">2c9db5eb-de8c-43f8-b764-675a5893dfc1</guid>
             <pubDate>Fri, 06 May 2016 08:11:28 GMT</pubDate>
         </item>
